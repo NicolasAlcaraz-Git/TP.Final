@@ -1,5 +1,5 @@
-# TP.Final
-Nicolas Alcaraz, estudiante de tercer año de Licenciatura en Producción de Videojuegos y Entretenimiento Digital
+# TP Final
+Nicolas Alcaraz y Eduardo Acosta, estudiantes de tercer año de Licenciatura en Producción de Videojuegos y Entretenimiento Digital
 Quiero desarrollar el TP final integrador de Programación de IA y Patrones de Comportamiento.
 Ayudame a definir un proyecto pequeño, realizable y que pueda explicar.
 
